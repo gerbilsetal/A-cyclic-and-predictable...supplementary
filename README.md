@@ -8,3 +8,16 @@ The repository contains the following files:
 #4 summary_control.csv - dataset containing the control experiment data.
 #5 combined_df.csv - dataset containing both the maze & control experiments data.
 #6 solving_time.csv - dataset containing the time it took the gerbils to solve each maze level.
+
+R version 4.5.2 was used for the analysis
+The following packages were used:
+> ('Hmisc') ‘5.2.4’
+> ('visreg') ‘2.8.0’
+> ('ggplot2') ‘4.0.1’
+> ('tidyverse') ‘2.0.0’
+> ('dplyr') ‘1.1.4’
+> ('emmeans') ‘2.0.1’
+> ('lubridate') ‘1.9.4’
+> ('lmerTest') ‘3.1.3’
+> ('factoextra') ‘1.0.7’
+> ('gamm4') ‘0.2.7’
