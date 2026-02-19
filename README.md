@@ -12,7 +12,7 @@ The repository contains the following files:
 R version 4.5.2 was used for the analysis
 The following packages were used:
 > ('Hmisc') ‘5.2.4’
-> ('visreg') ‘2.8.0’
+> ('plotly') ‘4.12.0’
 > ('ggplot2') ‘4.0.1’
 > ('tidyverse') ‘2.0.0’
 > ('dplyr') ‘1.1.4’
